@@ -1,8 +1,5 @@
-def print_eugene():
-    print("Eugene Yang")
-
 def main():
-    print_eugene()
+    print("The participants in this workshop were: ")
 
 if __name__ == "__main__":
     main()
