@@ -11,7 +11,7 @@ def main():
     print("The participants in this workshop were: ")
     print_test()
     add_eugene()
-    add_tiffany
+    add_tiffany()
     
 if __name__ == "__main__":
     main()
